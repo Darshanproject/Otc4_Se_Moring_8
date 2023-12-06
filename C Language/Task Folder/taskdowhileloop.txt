@@ -1,0 +1,11 @@
+enter your name 
+Hetvi
+i
+v
+t
+e
+h
+
+
+step 1 
+take input from user his/her name

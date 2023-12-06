@@ -1,0 +1,12 @@
+welcome to our resturant 
+1 idli 2pcs 40 rs
+2 dosa 1pcs 70 rs
+3 pizza m   140 rs
+4 pasta 1bowl 180 rs
+what do you want to order ?
+ 2 
+how many plates of pcs
+qu
+do you want to order something else
+yes or no
+your total bill is ? 

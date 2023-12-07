@@ -14,10 +14,10 @@ void main(){
 			Total_odd+=arr[i];
 			k++;
 		}
-		max=arr[0];
-		if(max<arr[i]){
-			max=arr[i];
-		}
+//		max=arr[0];
+//		if(max>arr[i]){
+//			max=arr[i];
+//		}
 	}printf("\nThis are your even numbers : ");
 	for(i=0;i<j;i++){
 		printf( "%d \t",even[i]);
@@ -29,5 +29,5 @@ void main(){
 	printf("\nThis are your first numbers which are stored in array of First even = %d ,First odd = %d and First normal = %d array",arr[0],even[0],odd[0]);
 	printf("\nThis is your total of even numbers : %d",Total_Even);
 	printf("\nThis is your total of odd numbers : %d",Total_odd);
-	printf("\n This is your max value %d",max);
+//	printf("\n This is your max value %d",max);
 }
